@@ -94,7 +94,6 @@ Total Points: 20
 ## Technical Stack
 
 - Frontend: React
-- Backend: Python/Flask
-- Database: PostgreSQL
+- Backend: JavaScript
+- Database: SupaBase 
 - AI Integration: OpenAI API
-- Visualization: D3.js
