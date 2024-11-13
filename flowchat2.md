@@ -13,7 +13,7 @@ flowchart TD
     B --> |Attention Checks + Filter Invalid Responses| C[Aggregation Module]
 
     C --> |GenAI Processing| C1[Extract Main Ideas]
-    C --> |Statistical Analysis| C2[Term Distributions By Generation]
+    C --> |Statistical Analysis| C2[Terms Defs By Generation]
     C --> |Generation Grouping| C3[Age-Based Clustering]
 
     C1 --> E
