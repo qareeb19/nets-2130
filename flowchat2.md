@@ -15,7 +15,6 @@ flowchart TD
     C --> |Statistical Analysis| C2[Terms Defs By Generation]
     C --> |Generation Grouping| C3[Age-Based Clustering]
 
-    C1 --> E
     C2 --> E
     C3 --> D3
 
