@@ -21,8 +21,8 @@ flowchart TD
     C3 --> D3
 
 
-    C --> D[Game Interface]
-    C --> |GenAI Processing| D
+    C --> 
+    C --> |GenAI Processing: Create Answer Choices| D[Game Interface]
     D --> |User Interaction| D1[Generation-Based Challenges]
     D --> |Scoring System| D2[Slang Knowledge Assessment]
     D --> |Visualization| D3[Generation Trends Display]
