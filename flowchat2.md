@@ -10,7 +10,7 @@ flowchart TD
     A3 --> B
     A4 --> B
 
-    B --> |Attention Check & Remove Bad Responses| C[Aggregation Module]
+    B --> |Attention Check & Filter| C[Aggregation Module]
 
     C --> |GenAI Processing| C1[Extract Main Ideas]
     C --> |Statistical Analysis| C2[Terms Defs By Generation]
