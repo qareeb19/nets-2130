@@ -12,7 +12,7 @@ flowchart TD
 
     B --> |Attention Check & Filter| C[Aggregation Module]
 
-    C --> |Statistical Analysis| C2[Terms Defs By Generation]
+    C --> |Statistical Analysis| C2[Terms Meaning By Generation]
     C --> |Generation Grouping| C3[Age-Based Clustering]
 
 
