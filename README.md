@@ -35,14 +35,12 @@ A crowdsourced platform for capturing and understanding generational language tr
 
 ### 3. Aggregation Module (4 points)
 
-- GenAI integration for main idea extraction
 - Statistical analysis system
 - Generation-based clustering
 - Term popularity tracking
 
 **Milestones:**
 
-- Implement GenAI processing pipeline
 - Create statistical analysis functions
 - Build generation clustering system
 - Setup trend analysis tools
